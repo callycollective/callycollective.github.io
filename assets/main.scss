@@ -2,8 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+body {background-color: #e8eeee;}
 
-body {background-color: #add;}
 
 /* Nathan Lam
    June 2, 2017
@@ -17,7 +17,7 @@ body {background-color: #add;}
     overflow: hidden;
     max-width: 100%;
   }
-  
+
   .embed-container iframe, .embed-container object, .embed-container embed {
     position: absolute;
     top: 0;
